@@ -1,4 +1,4 @@
-# RANGANNAGRI GURU MOHITH
+# RANGANNAGARI GURU MOHITH
 ### Software Engineer | Backend & Enterprise Systems
 
 A disciplined, mission-driven Computer Science student at VIT Chennai, dedicated to mastering the art of building robust, scalable, and efficient software. My focus is on understanding systems from first principles, from the low-level logic of algorithms to the high-level architecture of enterprise applications. I am currently forging my skills through a structured regimen of daily problem-solving, backend project development, and a deep-dive into the Java ecosystem.
