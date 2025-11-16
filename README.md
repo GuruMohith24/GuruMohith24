@@ -1,6 +1,6 @@
 <div align="center">
 
-# RANGANNAGRI GURU MOHITH
+# GURU MOHITH
 ### Software Engineer in Training | Backend & Enterprise Systems
 
 A mission-driven Computer Science student forging robust, scalable software through disciplined daily practice. My focus is on mastering the fundamentals of algorithms and the architecture of large-scale systems.
