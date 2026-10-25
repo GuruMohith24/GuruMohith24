@@ -1,9 +1,9 @@
 <div align="center">
 
 # GURU MOHITH
-### Software Engineer in Training | Backend & Enterprise Systems
+### CSE (Cyber Physical Systems) @ VIT Chennai | Backend · Security · Applied ML
 
-A mission-driven Computer Science student forging robust, scalable software through disciplined daily practice. My focus is on mastering the fundamentals of algorithms and the architecture of large-scale systems.
+Final-year student building backend systems in Java and Spring Boot, secure-by-design services, and edge/federated ML research. Currently grinding DSA and shipping projects I can defend line by line.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guru-mohith/" target="_blank">
@@ -18,26 +18,32 @@ A mission-driven Computer Science student forging robust, scalable software thro
 
 ---
 
-### 🧰 Arsenal | My Tech Stack
+### 🧰 Tech Stack
 
 <table>
   <tr>
-    <td align="center"><strong>Backend & Enterprise</strong></td>
-    <td align="center"><strong>Algorithmic Problem Solving</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>DSA</strong></td>
     <td align="center"><strong>AI & Data</strong></td>
-    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td align="center"><strong>Tools</strong></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -53,15 +59,43 @@ A mission-driven Computer Science student forging robust, scalable software thro
 
 ---
 
-### ⚔️ Current Campaign: The Path to Mastery
+### 📌 Featured Projects
 
--   **♛ The DSA Grind:** Conquering the **Blind 75** LeetCode problems to build a rock-solid algorithmic foundation.
--   **♝ The Enterprise Forge:** Architecting and building a full-scale **E-Commerce Backend** using Java and Spring Boot.
--   **♞ The Open Source Advance:** Actively seeking to make my first meaningful contributions to production-level open-source projects.
+| Project | What it is | Stack |
+|---|---|---|
+| **[Healthcare Appointment Manager](https://github.com/GuruMohith24/healthcare-appointment-manager)** | Deployed appointment platform with AI-assisted triage, email notifications and Google Calendar sync. [Live demo](https://healthcare-appointment-manager-phi.vercel.app) | Next.js 15, TypeScript, Prisma, PostgreSQL (Neon), NextAuth, Gemini API |
+| **[SecureShare](https://github.com/GuruMohith24/SecureShare)** | Zero-trust file sharing service with encrypted storage and OAuth 2.0 login | FastAPI, AES-256-GCM, PBKDF2, OAuth 2.0 |
+| **[AI Resume Screener](https://huggingface.co/spaces/GuruMohith/AI-Resume-Screener)** | Scores resumes against a job description using semantic similarity | Python, Hugging Face Transformers, cosine similarity, Gradio |
+| **[FogSleepMonitor](https://github.com/GuruMohith24/FogSleepMonitor)** | Wearable sleep monitoring with on-device inference and a fog-gateway federated learning extension (team project) | LSTM, TFLite, MPU-6050, PPG, federated learning |
 
 ---
 
-### 📊 Proof of Work | My GitHub Statistics
+### 🔬 Research
+
+- **Federated learning across fog nodes**: research internship at VIT's Centre for Cyber Physical Systems (May–Aug 2026), using the PhysioNet Sleep-EDF dataset.
+- **Land-use / land-cover change detection**: Siamese SwinV2 on Sentinel-2 imagery, 84.15% overall accuracy so far. Paper in progress.
+
+---
+
+### ⚔️ Currently
+
+- 🧮 Working through **NeetCode 150** for DSA.
+- ☕ Building a real-time **chat backend** with Java 21, Spring Boot 3, Spring Security, JWT and PostgreSQL (WebSocket/STOMP layer next).
+- 🌏 Learning **Japanese** and working toward graduate study in Japan.
+
+---
+
+### 🏆 Highlights
+
+- Google Student Ambassador
+- HackWithInfy 2026: National Round 2 qualifier
+- Goldman Sachs India Hackathon participant (2026)
+- Cybersecurity internship at Redynox Technologies (2025): automated regression vulnerability testing across 15+ web app audits
+- IBM Generative AI with WatsonX certification
+
+---
+
+### 📊 GitHub Stats
 <details>
   <summary>Click to view my GitHub activity</summary>
   <br/>
@@ -70,13 +104,3 @@ A mission-driven Computer Science student forging robust, scalable software thro
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruMohith24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   </p>
 </details>
-
----
-
-### 📌 Featured Project: AI Resume Screener
-
-> A full-stack web application built to solve a real-world HR challenge. This tool automates the initial screening of resumes by leveraging Python, NLP (Sentence Transformers), and OCR to perform semantic analysis against a job description, providing a contextual match score.
->
-> **[View the Hugging Face Demo](https://huggingface.co/spaces/GuruMohith/AI-Resume-Screener)**
-
----
